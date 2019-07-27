@@ -1,0 +1,18 @@
+#nav-bar {
+  background-color: #29247c;
+  height:8vh;
+  overflow:hidden;
+}
+
+.nav-link {
+  display: inline-block;
+  float: right;
+  color: white;
+  text-decoration: none;
+  padding: 2.5vh 15px 2.5vh 15px;
+}
+
+.nav-link:hover {
+  background-color: white;
+  color: #29247c;
+}
