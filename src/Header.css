@@ -1,5 +1,5 @@
 #nav-bar {
-  background-color: #29247c;
+  background-color: #29274c;
   height:8vh;
   overflow:hidden;
 }
@@ -10,6 +10,7 @@
   color: white;
   text-decoration: none;
   padding: 2.5vh 15px 2.5vh 15px;
+  font-family: 'Oswald', sans-serif;
 }
 
 .nav-link:hover {

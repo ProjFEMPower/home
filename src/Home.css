@@ -1,10 +1,13 @@
 #home-body {
-  background-color: #012a36;
+  background-color: #8ee3f5;
+  font-family: 'Oswald', sans-serif;
+}
+
+#title-block {
   height: 100vh;
 }
 
 #title {
-  font-family: 'Oswald', sans-serif;
   font-size: 100px;
   color: #7e52a0;
   text-align: center;
@@ -12,8 +15,23 @@
 }
 
 #slogan {
-  font-family: 'Oswald', sans-serif;
   font-size: 50px;
   color: #7e52a0;
   text-align: center;
+}
+
+#mission-block {
+  text-align: center;
+  width: 50vw;
+  margin-left: 25vw;
+}
+
+#mission-block h1 {
+  color: #7e52a0;
+  font-size: 60px;
+}
+
+#mission-block p {
+  color: #012a36;
+  font-size: 40px;
 }
