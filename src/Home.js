@@ -4,10 +4,11 @@ import './Home.css';
 
 const Home = () => {
   return (
-    <div>
+    <div id="home-body">
+      <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" />
       <Header />
-      <h1>Project FEMPower</h1>
-      <p>educate. empower. energize.</p>
+      <h1 id="title">Project FEMPower</h1>
+      <p id="slogan">educate. empower. energize.</p>
     </div>
   )
 }

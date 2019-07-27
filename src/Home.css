@@ -1,0 +1,19 @@
+#home-body {
+  background-color: #012a36;
+  height: 100vh;
+}
+
+#title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 100px;
+  color: #7e52a0;
+  text-align: center;
+  margin-top: 25vh;
+}
+
+#slogan {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  color: #7e52a0;
+  text-align: center;
+}
