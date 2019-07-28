@@ -26,7 +26,7 @@
   margin-left: 25vw;
 }
 
-#mission-block h1 {
+.section-title {
   color: #7e52a0;
   font-size: 60px;
 }
@@ -34,4 +34,23 @@
 #mission-block p {
   color: #012a36;
   font-size: 40px;
+}
+
+#about-block {
+  text-align: center;
+}
+
+#team-table {
+  width: 70vw;
+  margin-left: 15vw;
+}
+
+#team-table th {
+  font-size: 40px;
+  padding-bottom: 25px;
+}
+
+#team-table td {
+  font-size: 30px;
+  padding-bottom: 50px;
 }
