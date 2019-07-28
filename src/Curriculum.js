@@ -43,8 +43,8 @@ const Curriculum = () => {
           <h1>Techie</h1>
           <table class="topic-table">
             <tr>
-              <td>Web Developer<span class="popup">Building websites</span></td>
-              <td>Software Developer</td>
+              <td>Web Developer<span class="popup">These programmers build the websites that we visit every day, like Google and Amazon! You'll find them at any company, no matter what they do.</span></td>
+              <td>Software Developer<span class="popup">Ever wonder how you can open the calculator on your phone or edit images on your computer? You can thank software developers! They build the programs and systems that allow all your favorite devices and apps to function.</span></td>
             </tr>
             <tr>
               <td>Data Scientist</td>
@@ -55,7 +55,7 @@ const Curriculum = () => {
               <td>Product Manager</td>
             </tr>
             <tr>
-              <td>IT Manager</td>
+              <td>Game Developer</td>
               <td>UI/UX Designer</td>
             </tr>
           </table>
@@ -79,7 +79,7 @@ const Curriculum = () => {
             </tr>
             <tr>
               <td>Alternative Energy Engineer</td>
-              <td>Automation & Robotics Engineer</td>
+              <td>Electrical Engineer</td>
             </tr>
           </table>
         </div>
