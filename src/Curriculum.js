@@ -7,6 +7,99 @@ const Curriculum = () => {
     <div id="curriculum-body">
       <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" />
       <Header />
+      <h1 class="top">12 girls</h1>
+      <h1 class="top">24 weeks</h1>
+      <h1 class="top">4 projects</h1>
+      <p id="intro">Over six months, students will work together in small groups to create and build solutions for the world. The program meets once every week on Saturday and is broken up into four parts, each of which lasts six weeks: science, technology, engineering, and math.</p>
+      <h1 class="top">Girls will learn what it's like to be a...</h1>
+      <div>
+        <div class="topics" id="science">
+          <h1>Scientist</h1>
+          <table class="topic-table">
+            <tr>
+              <td>Biologist</td>
+              <td>Chemist</td>
+            </tr>
+            <tr>
+              <td>Paleontologist</td>
+              <td>Astrologist</td>
+            </tr>
+            <tr>
+              <td>Psychologist</td>
+              <td>Forensic Scientist</td>
+            </tr>
+            <tr>
+              <td>Gastronomist</td>
+              <td>Anthropologist</td>
+            </tr>
+          </table>
+        </div>
+        <div class="topics" id="tech">
+          <h1>Technology</h1>
+          <table class="topic-table">
+            <tr>
+              <td>Web Developer</td>
+              <td>Software Developer</td>
+            </tr>
+            <tr>
+              <td>Data Scientist</td>
+              <td>Computer Engineer</td>
+            </tr>
+            <tr>
+              <td>Database Administrator</td>
+              <td>Product Manager</td>
+            </tr>
+            <tr>
+              <td>IT Manager</td>
+              <td>UI/UX Designer</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div>
+        <div class="topics" id="engineering">
+          <h1>Engineer</h1>
+          <table class="topic-table">
+            <tr>
+              <td>Architect</td>
+              <td>Civil Engineer</td>
+            </tr>
+            <tr>
+              <td>Aerospace Engineer</td>
+              <td>Nuclear Engineer</td>
+            </tr>
+            <tr>
+              <td>Mechanical Engineer</td>
+              <td>Environmental Engineer</td>
+            </tr>
+            <tr>
+              <td>Alternative Energy Engineer</td>
+              <td>Automation & Robotics Engineer</td>
+            </tr>
+          </table>
+        </div>
+        <div class="topics" id="math">
+          <h1>Mathematician</h1>
+          <table class="topic-table">
+            <tr>
+              <td>Cryptographer</td>
+              <td>Economist</td>
+            </tr>
+            <tr>
+              <td>Statistician</td>
+              <td>Accountant</td>
+            </tr>
+            <tr>
+              <td>Actuary</td>
+              <td>Budget Analyst</td>
+            </tr>
+            <tr>
+              <td>Market Researcher</td>
+              <td>Financial Analyst</td>
+            </tr>
+          </table>
+        </div>
+      </div>
     </div>
   );
 }
