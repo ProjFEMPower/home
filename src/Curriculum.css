@@ -3,10 +3,28 @@
   font-family: 'Oswald', sans-serif;
 }
 
+#heading-table {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .top {
   font-size: 60px;
   color: #7e52a0;
   text-align: center;
+}
+
+#part1 {
+  animation: textAppear 6s;
+}
+
+#part2 {
+  animation: textAppear2 6s;
+}
+
+#part3 {
+  animation: textAppear3 6s;
 }
 
 #intro {
@@ -34,4 +52,44 @@
 
 .topic-table td {
   padding: 10px 20px 10px 20px;
+}
+
+.popup {
+  display: none;
+}
+
+@keyframes textAppear {
+  0% {
+    opacity: 0;
+  }
+  16% {
+    opacity: 0;
+  }
+  32% {
+    opacity: 1;
+  }
+}
+
+@keyframes textAppear2 {
+  0% {
+    opacity: 0;
+  }
+  48% {
+    opacity: 0;
+  }
+  64% {
+    opacity: 1;
+  }
+}
+
+@keyframes textAppear3 {
+  0% {
+    opacity: 0;
+  }
+  80% {
+    opacity: 0;
+  }
+  96% {
+    opacity: 1;
+  }
 }

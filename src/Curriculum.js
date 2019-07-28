@@ -7,9 +7,14 @@ const Curriculum = () => {
     <div id="curriculum-body">
       <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" />
       <Header />
-      <h1 class="top">12 girls</h1>
-      <h1 class="top">24 weeks</h1>
-      <h1 class="top">4 projects</h1>
+      <table id="heading-table">
+        <tr>
+          <td><h1 class="top">Project FEMPower</h1></td>
+          <td><h1 class="top" id="part1">12 girls</h1></td>
+          <td><h1 class="top" id="part2">24 weeks</h1></td>
+          <td><h1 class="top" id="part3">4 projects</h1></td>
+        </tr>
+      </table>
       <p id="intro">Over six months, students will work together in small groups to create and build solutions for the world. The program meets once every week on Saturday and is broken up into four parts, each of which lasts six weeks: science, technology, engineering, and math.</p>
       <h1 class="top">Girls will learn what it's like to be a...</h1>
       <div>
@@ -35,10 +40,10 @@ const Curriculum = () => {
           </table>
         </div>
         <div class="topics" id="tech">
-          <h1>Technology</h1>
+          <h1>Techie</h1>
           <table class="topic-table">
             <tr>
-              <td>Web Developer</td>
+              <td>Web Developer<span class="popup">Building websites</span></td>
               <td>Software Developer</td>
             </tr>
             <tr>
