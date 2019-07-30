@@ -27,7 +27,7 @@
   animation: textAppear3 6s;
 }
 
-#intro {
+.desc {
   font-size: 30px;
   color: #012a36;
   width: 70vw;
@@ -43,6 +43,11 @@
   width: 35vw;
   margin-left: 10vw;
   margin-bottom: 100px;
+}
+
+.topics p {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .topic-table {
