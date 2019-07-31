@@ -1,5 +1,5 @@
 #home-body {
-  background-color: #8ee3f5;
+  background-color: #122035;
   font-family: 'Oswald', sans-serif;
 }
 
@@ -9,14 +9,14 @@
 
 #title {
   font-size: 100px;
-  color: #7e52a0;
+  color: #efe3f4;
   text-align: center;
   margin-top: 25vh;
 }
 
 #slogan {
   font-size: 50px;
-  color: #7e52a0;
+  color: #f9f7ff;
   text-align: center;
 }
 
@@ -27,12 +27,12 @@
 }
 
 .section-title {
-  color: #7e52a0;
+  color: #6e3ba5;
   font-size: 60px;
 }
 
 #mission-block p {
-  color: #012a36;
+  color: #f9f7ff;
   font-size: 40px;
 }
 
@@ -43,6 +43,7 @@
 #team-table {
   width: 70vw;
   margin-left: 15vw;
+  color: #f9f7ff;
 }
 
 #team-table th {
