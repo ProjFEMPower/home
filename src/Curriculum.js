@@ -9,10 +9,10 @@ const Curriculum = () => {
       <Header />
       <table id="heading-table">
         <tr>
-          <td><h1 class="top">Project FEMPower</h1></td>
-          <td><h1 class="top" id="part1">12 girls</h1></td>
-          <td><h1 class="top" id="part2">24 weeks</h1></td>
-          <td><h1 class="top" id="part3">4 projects</h1></td>
+          <td><h1 class="heading">Project FEMPower</h1></td>
+          <td><h1 class="heading" id="part1">12 girls</h1></td>
+          <td><h1 class="heading" id="part2">24 weeks</h1></td>
+          <td><h1 class="heading" id="part3">4 projects</h1></td>
         </tr>
       </table>
       <p class="desc">Over six months, students will work together in small groups to create and build solutions for the world. The program meets once every week on Saturday and is broken up into four topics, each of which lasts six weeks: science, technology, engineering, and math.</p>
@@ -141,10 +141,10 @@ const Curriculum = () => {
 
         <div class="topics">
           <h1>Mathematics</h1>
-          <p>Predict which cities will be the safest in 10 years using current data</p>
+          <p>Predict which cities will be safest in 10 years using current data</p>
           <p>Study investing and pick stocks that will beat the market</p>
           <p>Analyze how codes have developed over centuries, and create your own puzzle</p>
-          <p>Decide on the best insurance rates based on current customers' data</p>
+          <p>Decide on fair insurance rates based on current customers' data</p>
         </div>
       </div>
     </div>

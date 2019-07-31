@@ -9,26 +9,32 @@
   margin-right: auto;
 }
 
+.heading {
+  font-size: 50px;
+  color: #f9f7ff;
+  text-align: center;
+}
+
 .top {
-  font-size: 60px;
+  font-size: 40px;
   color: #f9f7ff;
   text-align: center;
 }
 
 #part1 {
-  animation: textAppear 6s;
+  animation: textAppear 3s;
 }
 
 #part2 {
-  animation: textAppear2 6s;
+  animation: textAppear2 3s;
 }
 
 #part3 {
-  animation: textAppear3 6s;
+  animation: textAppear3 3s;
 }
 
 .desc {
-  font-size: 30px;
+  font-size: 25px;
   color: #efe3f4;
   width: 70vw;
   margin-left: 15vw;
@@ -38,11 +44,12 @@
 .topics {
   display: inline-block;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   background-color: #b084cc;
   width: 35vw;
   margin-left: 10vw;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
+  vertical-align: top;
 }
 
 .topics p {

@@ -6,6 +6,7 @@ const Contact = () => {
     <div>
       <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" />
       <Header />
+      
     </div>
   )
 }
