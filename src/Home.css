@@ -1,17 +1,20 @@
 #home-body {
-  background-color: #122035;
+  background-image: url("homeBack.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #6e3ba5;
   font-family: 'Oswald', sans-serif;
 }
 
 #title-block {
-  height: 100vh;
+  height: 90vh;
 }
 
 #title {
   font-size: 100px;
-  color: #efe3f4;
+  color: #f9f7ff;
   text-align: center;
-  margin-top: 25vh;
+  padding-top: 20vh;
 }
 
 #slogan {

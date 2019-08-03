@@ -1,7 +1,10 @@
 #nav-bar {
   background-color: #6e3ba5;
   height:8vh;
-  overflow:hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
 }
 
 .nav-link {
