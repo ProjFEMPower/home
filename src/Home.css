@@ -1,20 +1,21 @@
 #home-body {
-  background-image: url("homeBack.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  background-color: #6e3ba5;
+  background-color: #122035;
   font-family: 'Oswald', sans-serif;
 }
 
 #title-block {
-  height: 90vh;
+  height: 100vh;
+  background-image: url("homeBack.jpg");
+  background-size: 100% auto;
+  background-position: top;
 }
 
 #title {
   font-size: 100px;
   color: #f9f7ff;
   text-align: center;
-  padding-top: 20vh;
+  padding-top: 25vh;
+  margin-top: 0px;
 }
 
 #slogan {
@@ -30,7 +31,7 @@
 }
 
 .section-title {
-  color: #6e3ba5;
+  color: #f9f7ff;
   font-size: 60px;
 }
 

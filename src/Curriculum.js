@@ -15,7 +15,7 @@ const Curriculum = () => {
           <td><h1 class="heading" id="part3">4 projects</h1></td>
         </tr>
       </table>
-      <p class="desc">Over six months, students will work together in small groups to create and build solutions for the world. The program meets once every week on Saturday and is broken up into four topics, each of which lasts six weeks: science, technology, engineering, and math.</p>
+      <p class="desc">Over six months, students will work together in small groups to create and build solutions for the world. The program meets once every week on Saturday, from 10am to 3pm, and is broken up into four topics, each of which lasts six weeks: science, technology, engineering, and math.</p>
       <h1 class="top">Girls will learn what it's like to be a...</h1>
       <div>
         <div class="topics" id="science">

@@ -1,12 +1,12 @@
-#mentors-body {
+#contact-body {
   background-color: #122035;
   font-family: 'Oswald', sans-serif;
   height: 100vw;
 }
 
-#mentors-heading {
-  color: #f9f7ff;
+#contact-desc {
+  padding-top: 12vh;
   font-size: 50px;
   text-align: center;
-  padding-top: 12vh;
+  color: #f9f7ff;
 }
